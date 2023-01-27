@@ -2,7 +2,7 @@
 **차근차근 코딩테스트 격파!**
 
 _1.코딩테스트 입문_
-![코딩테스트 입문 캘린더 (4)](https://user-images.githubusercontent.com/91243651/211989807-582e5ab6-c45f-4e1d-afa8-603a60568c9c.png)
+![코딩테스트 입문 캘린더 (5)](https://user-images.githubusercontent.com/91243651/212030226-3c5282d6-d8cf-4f21-b7c5-4f74a9a6b419.png)
 
 
 
