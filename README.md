@@ -12,4 +12,5 @@ _2.코딩테스트 광탈 방지 A to Z : JavaScript_
 
 
 _3.코딩 기초 트레이닝_
-![코딩 기초 트레이닝 캘린더](https://github.com/yookeunbyul/programmers-coding-test-practice/assets/91243651/d6b52ac6-25d1-4a93-a031-62895fb48a4f)
+![코딩 기초 트레이닝 캘린더 (1)](https://github.com/yookeunbyul/programmers-coding-test-practice/assets/91243651/716d7bda-301b-4ec4-a7e6-8da7f16d651f)
+
